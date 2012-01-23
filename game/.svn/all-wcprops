@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/6/trunk/game
+END
+m_insane.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_insane.h
+END
+g_save.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/g_save.c
+END
+g_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/g_local.h
+END
+m_infantry.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/game/m_infantry.c
+END
+m_infantry.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/game/m_infantry.h
+END
+m_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/m_move.c
+END
+m_actor.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_actor.c
+END
+m_boss31.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_boss31.c
+END
+m_actor.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_actor.h
+END
+g_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/g_main.c
+END
+m_boss31.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_boss31.h
+END
+p_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/p_client.c
+END
+g_monster.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/game/g_monster.c
+END
+m_hover.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_hover.c
+END
+g_weapon.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/g_weapon.c
+END
+p_hud.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/game/p_hud.c
+END
+g_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/g_misc.c
+END
+m_hover.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_hover.h
+END
+m_boss2.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_boss2.c
+END
+m_boss2.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_boss2.h
+END
+m_soldier.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/game/m_soldier.c
+END
+game.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/game.dsp
+END
+m_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_float.c
+END
+m_soldier.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/game/m_soldier.h
+END
+m_gladiator.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/game/m_gladiator.c
+END
+m_parasite.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/game/m_parasite.c
+END
+m_mutant.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_mutant.c
+END
+m_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_float.h
+END
+g_items.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/g_items.c
+END
+m_gladiator.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/game/m_gladiator.h
+END
+m_mutant.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_mutant.h
+END
+m_parasite.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/game/m_parasite.h
+END
+g_cmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/g_cmds.c
+END
+m_medic.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_medic.c
+END
+m_flyer.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_flyer.c
+END
+g_spawn.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/g_spawn.c
+END
+m_flyer.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_flyer.h
+END
+m_medic.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_medic.h
+END
+g_svcmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/g_svcmds.c
+END
+p_weapon.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/p_weapon.c
+END
+m_gunner.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_gunner.c
+END
+g_combat.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/g_combat.c
+END
+m_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_player.h
+END
+m_flipper.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/game/m_flipper.c
+END
+m_gunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_gunner.h
+END
+m_flipper.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/game/m_flipper.h
+END
+game.def
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/game.def
+END
+m_rider.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_rider.h
+END
+q_shared.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/q_shared.c
+END
+m_boss32.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_boss32.c
+END
+m_supertank.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/game/m_supertank.c
+END
+g_chase.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/g_chase.c
+END
+g_phys.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/g_phys.c
+END
+q_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/q_shared.h
+END
+g_target.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/g_target.c
+END
+m_boss32.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_boss32.h
+END
+m_supertank.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/game/m_supertank.h
+END
+m_chick.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_chick.c
+END
+g_ai.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/6/trunk/game/g_ai.c
+END
+g_func.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/g_func.c
+END
+m_chick.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_chick.h
+END
+m_boss3.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_boss3.c
+END
+g_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/g_utils.c
+END
+m_brain.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_brain.c
+END
+g_trigger.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/game/g_trigger.c
+END
+m_flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_flash.c
+END
+m_berserk.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/game/m_berserk.c
+END
+m_tank.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/m_tank.c
+END
+m_brain.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/m_brain.h
+END
+m_tank.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/m_tank.h
+END
+game.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/6/trunk/game/game.h
+END
+m_berserk.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/game/m_berserk.h
+END
+p_view.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/game/p_view.c
+END
+m_insane.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/m_insane.c
+END
+p_trail.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/game/p_trail.c
+END
+g_turret.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/game/g_turret.c
+END

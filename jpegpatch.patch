@@ -1,0 +1,10 @@
+--- ref_gl/gl_image.c.old	2010-02-05 17:27:57.000000000 -0500
++++ ref_gl/gl_image.c	2010-02-05 05:19:54.000000000 -0500
+@@ -28,6 +28,7 @@
+ 
+ 
+ #define IMAGES_HASH_SIZE	128
++#define jpeg_mem_src my_jpeg_mem_src
+ 
+ image_t			gltextures[MAX_GLTEXTURES];
+ static image_t	*images_hash[IMAGES_HASH_SIZE];

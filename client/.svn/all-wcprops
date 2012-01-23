@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/11/trunk/client
+END
+snd_mix.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/snd_mix.c
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/console.c
+END
+cl_demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/cl_demo.c
+END
+anorms.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/client/anorms.h
+END
+cl_newfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/client/cl_newfx.c
+END
+block16.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/block16.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/console.h
+END
+cl_pred.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/cl_pred.c
+END
+cl_inv.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/client/cl_inv.c
+END
+keys.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/client/keys.c
+END
+cl_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/cl_draw.c
+END
+cl_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/client/cl_input.c
+END
+adivtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/adivtab.h
+END
+keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/client/keys.h
+END
+openal_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/client/openal_funcs.h
+END
+AVI_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/client/AVI_funcs.h
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/11/trunk/client/client.h
+END
+cl_scrn.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/cl_scrn.c
+END
+screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/client/screen.h
+END
+block8.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/client/block8.h
+END
+cl_cin.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/client/cl_cin.c
+END
+cl_ents.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/cl_ents.c
+END
+cl_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/client/cl_parse.c
+END
+cl_view.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/cl_view.c
+END
+cl_fx.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/client/cl_fx.c
+END
+cl_loc.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/client/cl_loc.c
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/client/sound.h
+END
+asm_i386.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/client/asm_i386.h
+END
+cl_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/cl_main.c
+END
+mp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/client/mp3.h
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/client/input.h
+END
+snd_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/snd_dma.c
+END
+cdaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/cdaudio.h
+END
+avi_export.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/client/avi_export.c
+END
+ref.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/client/ref.h
+END
+snd_openal.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/client/snd_openal.c
+END
+snd_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/snd_mem.c
+END
+avi_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/client/avi_export.h
+END
+x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/client/x86.c
+END
+snd_loc.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/snd_loc.h
+END
+vid.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/client/vid.h
+END
+cl_tent.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/cl_tent.c
+END
+cl_http.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/client/cl_http.c
+END

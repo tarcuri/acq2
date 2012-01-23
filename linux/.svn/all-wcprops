@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/6/trunk/linux
+END
+r_drawa.s
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/linux/r_drawa.s
+END
+snd_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/linux/snd_linux.c
+END
+r_draw16.s
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/r_draw16.s
+END
+libmpdclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/linux/libmpdclient.c
+END
+block16.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/linux/block16.h
+END
+qasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/linux/qasm.h
+END
+snd_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/linux/snd_oss.c
+END
+q_shlinux.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/linux/q_shlinux.c
+END
+libmpdclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/linux/libmpdclient.h
+END
+gl_glx.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/linux/gl_glx.c
+END
+glw_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/linux/glw_linux.h
+END
+x11.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/6/trunk/linux/x11.h
+END
+mpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/6/trunk/linux/mpd.c
+END
+d_ifacea.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/d_ifacea.h
+END
+snd_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/linux/snd_sdl.c
+END
+block8.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/linux/block8.h
+END
+xmms_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/linux/xmms_funcs.h
+END
+snd_alsa_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/trunk/linux/snd_alsa_funcs.h
+END
+d_polysa.s
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/d_polysa.s
+END
+r_spr8.s
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/linux/r_spr8.s
+END
+q2icon.xbm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/q2icon.xbm
+END
+qgl_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/linux/qgl_linux.c
+END
+sys_dosa.s
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/sys_dosa.s
+END
+cd_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/cd_linux.c
+END
+r_edgea.s
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/linux/r_edgea.s
+END
+rw_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/rw_linux.c
+END
+r_surf8.s
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/linux/r_surf8.s
+END
+math.s
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/linux/math.s
+END
+rw_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/rw_linux.h
+END
+r_varsa.s
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/linux/r_varsa.s
+END
+rw_x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/linux/rw_x11.c
+END
+snd_mixa.s
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/snd_mixa.s
+END
+vid_so.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/linux/vid_so.c
+END
+glob.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/linux/glob.c
+END
+xmms.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/linux/xmms.c
+END
+snd_alsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/snd_alsa.c
+END
+r_scana.s
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/linux/r_scana.s
+END
+glob.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/linux/glob.h
+END
+xmms.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/linux/xmms.h
+END
+rw_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/linux/rw_sdl.c
+END
+r_aclipa.s
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/linux/r_aclipa.s
+END
+sys_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/linux/sys_linux.c
+END

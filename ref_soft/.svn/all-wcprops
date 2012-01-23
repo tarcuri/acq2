@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/6/trunk/ref_soft
+END
+r_surf.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/r_surf.c
+END
+asm_draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/ref_soft/asm_draw.h
+END
+r_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/ref_soft/r_image.c
+END
+r_scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/r_scan.c
+END
+r_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/r_main.c
+END
+r_aclip.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/ref_soft/r_aclip.c
+END
+r_spr8.asm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/ref_soft/r_spr8.asm
+END
+r_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/r_misc.c
+END
+adivtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/ref_soft/adivtab.h
+END
+r_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/ref_soft/r_local.h
+END
+d_ifacea.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/ref_soft/d_ifacea.h
+END
+r_model.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/ref_soft/r_model.c
+END
+r_edgea.asm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/ref_soft/r_edgea.asm
+END
+r_surf8.asm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/ref_soft/r_surf8.asm
+END
+r_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/ref_soft/r_model.h
+END
+r_polysa.asm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/ref_soft/r_polysa.asm
+END
+r_part.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/r_part.c
+END
+r_sprite.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/ref_soft/r_sprite.c
+END
+block16.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/ref_soft/block16.inc
+END
+qasm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/qasm.inc
+END
+ref_soft.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/ref_soft/ref_soft.vcproj
+END
+d_if.inc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/d_if.inc
+END
+r_varsa.asm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/ref_soft/r_varsa.asm
+END
+r_polyse.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/ref_soft/r_polyse.c
+END
+r_poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/r_poly.c
+END
+r_scana.asm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/ref_soft/r_scana.asm
+END
+r_bsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/ref_soft/r_bsp.c
+END
+r_aclipa.asm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/ref_soft/r_aclipa.asm
+END
+anormtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/ref_soft/anormtab.h
+END
+block8.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/ref_soft/block8.inc
+END
+r_alias.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/ref_soft/r_alias.c
+END
+r_drawa.asm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/ref_soft/r_drawa.asm
+END
+r_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/r_draw.c
+END
+ref_soft.def
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/ref_soft/ref_soft.def
+END
+r_draw16.asm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/ref_soft/r_draw16.asm
+END
+rand1k.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/rand1k.h
+END
+r_edge.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/r_edge.c
+END
+r_light.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/ref_soft/r_light.c
+END
+r_rast.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_soft/r_rast.c
+END

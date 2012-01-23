@@ -1,0 +1,8 @@
+AprQ2 installation is fairly straightforward.  Type 'make' to build the game.
+Feel free to edit Makefile to meet your needs, but do so at your own peril.
+By default, the binaries will be built to the 'releasei386' directory.  Copy
+them to an appropriate path (e.g. ~/.quake2, /usr/share/games/quake2, etc).
+
+There is also a small baseq2 directory included in this source tree.  It 
+provides a few image files for things like bullet holes in walls.  To install
+it, simply copy it to an appropriate path as above.

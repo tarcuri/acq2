@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/9/trunk/ref_gl
+END
+def_pal.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/ref_gl/def_pal.h
+END
+gl_decal.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_gl/gl_decal.h
+END
+gl_rmisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_gl/gl_rmisc.c
+END
+gl_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8/trunk/ref_gl/gl_image.c
+END
+anormtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_gl/anormtab.h
+END
+gl_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/ref_gl/gl_mesh.c
+END
+gl_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/ref_gl/gl_draw.c
+END
+gl_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/9/trunk/ref_gl/gl_local.h
+END
+gl_model.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_gl/gl_model.c
+END
+gl_rsurf.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_gl/gl_rsurf.c
+END
+gl_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_gl/gl_model.h
+END
+gl_rmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8/trunk/ref_gl/gl_rmain.c
+END
+warpsin.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/ref_gl/warpsin.h
+END
+qgl.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/ref_gl/qgl.h
+END
+gl_light.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_gl/gl_light.c
+END
+gl_decal.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ref_gl/gl_decal.c
+END
+gl_warp.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/ref_gl/gl_warp.c
+END

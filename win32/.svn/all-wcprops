@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/7/trunk/win32
+END
+glw_imp.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/win32/glw_imp.c
+END
+winamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/win32/winamp.h
+END
+qgl_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/win32/qgl_win.c
+END
+snd_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/win32/snd_win.c
+END
+conproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/win32/conproc.c
+END
+cd_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/win32/cd_win.c
+END
+q2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/6/trunk/win32/q2.rc
+END
+winquake.rc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/win32/winquake.rc
+END
+rw_dib.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/win32/rw_dib.c
+END
+q_shwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/win32/q_shwin.c
+END
+conproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/win32/conproc.h
+END
+rw_ddraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/win32/rw_ddraw.c
+END
+q2.ico
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/win32/q2.ico
+END
+rw_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/win32/rw_win.h
+END
+glw_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/win32/glw_win.h
+END
+vid_dll.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/win32/vid_dll.c
+END
+qe3.ico
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/win32/qe3.ico
+END
+q2.aps
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/win32/q2.aps
+END
+in_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/win32/in_win.c
+END
+winquake.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/win32/winquake.h
+END
+sys_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/win32/sys_win.c
+END
+winamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/win32/winamp.c
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/win32/resource.h
+END
+rw_imp.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/win32/rw_imp.c
+END

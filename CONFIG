@@ -1,0 +1,25 @@
+// Recommended settings (1680x1050) -- copy this into autoexec.cfg
+
+set intensity 3.0
+
+set gl_decals 1
+set gl_decals_time 5
+
+set gl_mode -1
+
+set gl_modulate 1.25
+
+set gl_particle 1
+set gl_particle_scale 2.0
+
+set gl_scale 2.0
+
+set gl_shadows 2
+
+set gl_shelleffect 1
+
+set gl_waterwaves 1
+
+set r_customwidth 1680
+set r_customheight 1050
+

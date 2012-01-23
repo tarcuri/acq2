@@ -1,0 +1,20 @@
+--- ref_gl/gl_image.c.old	2010-02-05 17:27:57.000000000 -0500
++++ ref_gl/gl_image.c	2010-02-05 05:19:54.000000000 -0500
+@@ -1009,7 +1010,7 @@
+     if (!PngFileBuffer.Buffer)
+ 		return;
+ 
+-	if ((png_check_sig(PngFileBuffer.Buffer, 8)) == 0) {
++	if ((png_sig_cmp(PngFileBuffer.Buffer, 0, 8) == 0) == 0) {
+ 		Com_Printf ("LoadPNG: Not a PNG file: %s\n", filename);
+ 		FS_FreeFile (PngFileBuffer.Buffer); 
+ 		return;
+@@ -1049,7 +1050,7 @@
+ 	}
+ 
+ 	if (info_ptr->color_type == PNG_COLOR_TYPE_GRAY && info_ptr->bit_depth < 8)
+-		png_set_gray_1_2_4_to_8(png_ptr);
++		png_set_expand_gray_1_2_4_to_8(png_ptr);
+ 
+ 	if (png_get_valid(png_ptr, info_ptr, PNG_INFO_tRNS))
+ 		png_set_tRNS_to_alpha(png_ptr);

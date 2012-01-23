@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/12/trunk/ui
+END
+ui_controls.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/ui/ui_controls.c
+END
+ui_newoptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/ui/ui_newoptions.c
+END
+ui_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/ui/ui_video.c
+END
+ui_demos.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/ui/ui_demos.c
+END
+ui_download.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/ui/ui_download.c
+END
+ui_multiplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/ui/ui_multiplayer.c
+END
+ui_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/ui/ui_game.c
+END
+ui_keys.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/ui/ui_keys.c
+END
+ui_dmoptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/ui/ui_dmoptions.c
+END
+ui_playerconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/ui/ui_playerconfig.c
+END
+ui_quit.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/ui/ui_quit.c
+END
+ui_atoms.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/ui/ui_atoms.c
+END
+ui_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/ui/ui_main.c
+END
+ui_startserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/ui/ui_startserver.c
+END
+ui_joinserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/ui/ui_joinserver.c
+END
+ui_loadsavegame.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/12/trunk/ui/ui_loadsavegame.c
+END
+qmenu.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/6/trunk/ui/qmenu.c
+END
+ui_credits.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/ui/ui_credits.c
+END
+ui_mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/6/trunk/ui/ui_mp3.c
+END
+ui_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/ui/ui_local.h
+END
+ui_addressbook.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/ui/ui_addressbook.c
+END
